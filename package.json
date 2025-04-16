@@ -4,5 +4,13 @@
   "scripts": {
     "dev": "parcel",
     "build": "parcel build"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
   }
 }
